@@ -1,0 +1,2 @@
+# mathematica
+magnetic field calculation
